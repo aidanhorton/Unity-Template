@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Unity Project Rename/1.0.0": {
+        "runtime": {
+          "Unity Project Rename.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unity Project Rename/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
