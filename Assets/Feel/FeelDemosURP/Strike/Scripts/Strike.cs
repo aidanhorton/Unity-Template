@@ -186,7 +186,7 @@ namespace MoreMountains.Feel
 		/// </summary>
 		protected virtual void HandleInput()
 		{
-			if (FeelDemosInputHelper.CheckMainActionInputPressedThisFrame())
+			if (Input.GetKeyDown(KeyCode.Space))
 			{
 				StartBall();
 			}
